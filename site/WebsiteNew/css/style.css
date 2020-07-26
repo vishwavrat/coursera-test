@@ -45,8 +45,3 @@ body {
 .navbar-brand p span {
 	vertical-align: middle;
 }
-@media (min-width: 400px){
-.margin {
-	margin-left: 4em;
-}
-}
